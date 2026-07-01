@@ -1,4 +1,3 @@
-# Credit-Risk-Analysis---Nova-Bank
 # Nova Bank Credit Risk Analytics
 
 Power BI dashboard analyzing borrower risk across the USA, UK, and Canada using the Onyx Data September 2025 Monthly Dataset Challenge dataset.
@@ -33,37 +32,25 @@ The report is built on a star schema with a central loan facts table connected t
 - Power BI (data modeling, DAX, report design)
 - Power Query (data cleaning and transformation)
 - DAX (measure development)
-- Python (python pptx) for generating executive summary presentations from the dashboard insights
-
-## Repository Structure
-
-```
-Nova-Bank-Credit-Risk-Analytics/
-├── pbix/
-│   └── Credit_Risk_Analysis.pbix
-├── data/
-│   └── (dataset or data source link)
-├── screenshots/
-│   └── (dashboard preview images)
-└── README.md
-```
 
 ## Dashboard Preview
 
-Add screenshots of the report pages here once exported from Power BI. Screenshots make the project scannable for recruiters who will not open the pbix file directly.
+<img width="918" height="512" alt="Screenshot 2026-07-01 125336" src="https://github.com/user-attachments/assets/7f3279bc-2778-4abc-af8f-e08c0d63931b" />
+
+<img width="915" height="510" alt="Screenshot 2026-07-01 125516" src="https://github.com/user-attachments/assets/6f24d17b-380d-4dae-a1c6-3fe5ff5ab982" />
+
+<img width="920" height="512" alt="Screenshot 2026-07-01 125551" src="https://github.com/user-attachments/assets/d71db044-74f2-47de-a5ff-154d1ab74554" />
+
+<img width="922" height="510" alt="Screenshot 2026-07-01 125647" src="https://github.com/user-attachments/assets/41c9aa67-14fd-4556-8a49-4a1c84ffa0a1" />
 
 ## Insights
+<img width="839" height="472" alt="Screenshot 2026-07-01 130208" src="https://github.com/user-attachments/assets/c6fe2e9e-817e-415c-9d57-0c83a09884a4" />
 
-Add two or three headline findings here once finalized, for example the segment with the highest default rate or the country with the largest portfolio at risk. Keeping this section short and specific gives readers the payoff without needing to open the file.
+## Recommendation
+<img width="838" height="472" alt="Screenshot 2026-07-01 130256" src="https://github.com/user-attachments/assets/d8db2514-42a2-4cc2-982c-6e01575eb38e" />
 
-## How to Use
-
-1. Clone this repository
-2. Open `pbix/Credit_Risk_Analysis.pbix` in Power BI Desktop
-3. Refresh the data connection if prompted
 
 ## Author
-
 Agbeyo Ayobami Abiodun
 Data and Business Analyst
 [LinkedIn](https://linkedin.com/in/agbeyo-ayobami-abiodun-356b34244)
